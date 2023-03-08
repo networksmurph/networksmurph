@@ -32,8 +32,7 @@
 <a href="https://fb.com/profile.php?id=100088229846814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100088229846814" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/krowtensmurph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="krowtensmurph" height="30" width="40" /></a>
 <a href="/npr.org/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="npr.org/feed" height="30" width="40" /></a>
-<a href="https://tryhackme.com/p/networksmurph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg"  alt="networksmurph" height="30" width="40" /></a>
-<img src="https://tryhackme-badges.s3.amazonaws.com/networksmurph.png" alt="TryHackMe">
+<a href="https://tryhackme.com/p/networksmurph" target="blank"><img align="center"src="https://tryhackme-badges.s3.amazonaws.com/networksmurph.png" alt="TryHackMe">
 </p>
 
 <h3 align="left">Languages and Tools with my current knowledge level:</h3>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krowten SMurph</h1>
 <h3 align="center">A curious individual, charting a career change from repair services back into information technology. With a particular focus on cloud security</h3>
 
-- 🔭 I’m currently working on [lab1](arfa.solutions)
+- 🔭 I’m currently working on [lab1](arfa.solutions) and <a href="https://www.blogger.com/profile/13059792468342810162">Blog?</a></h2>
 
 - 🌱 I’m currently learning **everything**
 

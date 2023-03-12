@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [resume arfa.solutions](resume arfa.solutions)
 
-- ⚡ Fun fact **I spend too much time falling down rabbit holes and chasing butterflies**
+- ⚡ Fun fact: **I spend too much time falling down rabbit holes and chasing butterflies**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

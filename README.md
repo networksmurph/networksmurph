@@ -23,6 +23,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [slow progress](https://krowtensmurph.blogspot.com/2023/03/slow-progress.html)
+- [Soooo frustrated](https://krowtensmurph.blogspot.com/2023/03/850pm-soooo-frustrated-cant-get-my-head.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> 🤳 Connect with me:</h2>

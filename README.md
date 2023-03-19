@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Krowten SMurph</h1>
 <h3 align="center">A curious individual, charting a career change from repair services back into information technology. With a particular focus on cloud security</h3>
 
-- 🔭 I’m currently working on [lab1](https://krowtensmurph.blogspot.com) and <a href="https://www.blogger.com/profile/13059792468342810162">Blog?</a></h2>
+- 🔭 I’m currently working on different types of blogs [blogspot.com](https://krowtensmurph.blogspot.com) and <a href="https://www.blogger.com/profile/13059792468342810162">blogger.com</a></h2>
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently trying to learn **everything** ie: Linux, networking, Python, cloud basics
 
-- 🤝 I’m looking for help with [lab3](arfa.solutions)
+- 🤝 I’m looking for help with [static web pages](arfa.solutions)
 
 - 👨‍💻 All of my projects are available at [portfolio arfa.solutions](portfolio arfa.solutions)
 
 - 📝 I regularly write articles on [blog arfa.solutions](https://krowtensmurph.blogspot.com)
-
-- 💬 Ask me about **nothing**
 
 - 📫 How to reach me **networksmurph@gmail.com**
 

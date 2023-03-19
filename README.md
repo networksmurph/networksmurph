@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on different types of blogs [blogspot.com](https://krowtensmurph.blogspot.com) and <a href="https://www.blogger.com/profile/13059792468342810162">blogger.com</a></h2>
 
-- 🌱 I’m currently trying to learn **everything** ie: Linux, networking, Python, cloud basics
+- 🌱 I’m currently trying to learn [**everything**](exel-list)  ie: Linux, networking, Python, cloud basics
 
 - 🤝 I’m looking for help with [static web pages](arfa.solutions)
 

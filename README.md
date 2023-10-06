@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stevie Murphy</h1>
 <h3 align="center">A curious individual, charting a career change from repair services back into information technology. With a particular focus on cloud security</h3>
 
-- 🔭 I’m currently working on different types of blogs [blogspot.com](https://krowtensmurph.blogspot.com) and <a href="https://www.blogger.com/profile/13059792468342810162">blogger.com</a></h2>
-
 - 🌱 I’m currently trying to learn [**everything**](exel-list)  ie: Linux, networking, Python, cloud basics
 
 - 🤝 I’m looking for help with [static web pages](arfa.solutions)

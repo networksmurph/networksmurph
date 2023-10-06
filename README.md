@@ -25,6 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [well, this different....](https://krowtensmurph.blogspot.com/2023/10/blog-post.html)
 - [Almost there](https://krowtensmurph.blogspot.com/2023/03/almost-there.html)
 - [Knowledge test](https://krowtensmurph.blogspot.com/2023/03/knowledge-test.html)
 - [slow progress](https://krowtensmurph.blogspot.com/2023/03/slow-progress.html)

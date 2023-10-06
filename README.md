@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio arfa.solutions](portfolio arfa.solutions)
 
-- 📝 I regularly write articles on [blog arfa.solutions](https://krowtensmurph.blogspot.com)
+- 📝 I regularly write articles on (https://krowtensmurph.blogspot.com)
 
 - 📫 How to reach me **networksmurph@gmail.com**
 

@@ -1,7 +1,7 @@
 <h1 align="center"> 👋, I'm Stevie Murphy</h1>
 <h3 align="center">A curious individual, charting a career change from repair services back into information technology. With a particular focus on cloud security</h3>
 
-- 🌱 I’m currently trying to learn [**everything**](exel-list)  ie: Linux, networking, Python, cloud basics
+- 🌱 I’m currently trying to learn [**everything**](exel-list)  ie: Linux, networking, Python, cloud basics AND working on these A+ certs!!!
 
 - 🤝 I’m looking for help with [static web pages](arfa.solutions)
 
